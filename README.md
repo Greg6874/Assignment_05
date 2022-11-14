@@ -1,2 +1,2 @@
-# Assigntment_05
+# Assignment_05
 Repository for Assignment 05
